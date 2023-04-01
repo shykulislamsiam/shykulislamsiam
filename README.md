@@ -2,6 +2,7 @@
 <h1 align="center">Olá 👋, This is Siam Islam</h1>
 <h3 align="center">An Engineering Student from Rajshahi University of Engineering and Technology,Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470ogzv0wl1ahi5q2k5zy9p3q70wrtoq47x7e34m3n&rid=giphy.gif&ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shykulislamsiam&label=Profile%20views&color=0e75b6&style=flat" alt="shykulislamsiam" /> </p>
 
 - 🔭 Field of Interest **Artificial intelligence, Image Processing**
@@ -14,6 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/siam islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siam islam" height="30" width="40" /></a>
+<a href="https://instagram.com/shykul_islam_siam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shykul_islam_siam" height="30" width="40" /></a>
+<a href="https://discord.gg/#0921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0921" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
