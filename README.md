@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="500" src="https://miro.medium.com/v2/resize:fit:1400/1*37ABKi4XeHkEWHxlF3LIog.gif">
+<img align="center" alt="Coding" width="1800" height="525" src="https://miro.medium.com/v2/resize:fit:1400/1*37ABKi4XeHkEWHxlF3LIog.gif">
 <h1 align="center">Olá 👋, This is Siam Islam</h1>
 <h3 align="center">An Engineering Student from Rajshahi University of Engineering and Technology,Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470ogzv0wl1ahi5q2k5zy9p3q70wrtoq47x7e34m3n&rid=giphy.gif&ct=g">
